@@ -4,7 +4,7 @@
 <body>
   <section>
 <p><img src="https://cdn.discordapp.com/attachments/1492183778590720151/1548687692567552021/black_ak.png?ex=6aa7f74f&is=6aa6a5cf&hm=2dd65b898aaf15922eeb7f8b80d5b780c8f80c07c94a0d750a5277ac1604c4d9&"></p>
-<p>✦ NAME(s) : Butter.Cream! . Butter . Dawko</p>
+<p>✦ NAME(s) : Butter.Cream! . Butter . ${\textsf{\color{#4b00ad}Dawko}}$</p>
 <p>✧ GENDER . PRONOUNS : Genderfluid . Any</p>
 <p>✦ AGE : 15+</p>
 </section>
